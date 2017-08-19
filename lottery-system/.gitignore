@@ -1,0 +1,10 @@
+# default
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+
+# extra
+.nrepl-port
+.lein-repl-history
